@@ -11,7 +11,7 @@ Using Q-learning to find path to finish line
 
 2. Using Dockerfile:
 
-	`$ docker build -t racecar:1.0`
+	`$ docker build -t racecar:1.0 .`
 
 ## Usage
 
