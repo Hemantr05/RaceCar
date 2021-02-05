@@ -4,9 +4,17 @@ Using Q-learning to find path to finish line
 
 ## Installation
 
-`python install -e .`
 
+1. Using setup.py:
+
+	`$ python install -e .`
+
+2. Using Dockerfile:
+
+	`$ docker build -t racecar:1.0`
 
 ## Usage
 
-`python main.py`
+To launch the simulation:
+
+	`$ python main.py`
